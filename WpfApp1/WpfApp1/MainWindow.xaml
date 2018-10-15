@@ -9,6 +9,7 @@
     <Grid>
         <Label FontSize="60" Content="Hello GitHub" HorizontalAlignment="Left" Height="202" Margin="125,90,0,0" VerticalAlignment="Top" Width="529"/>
         <Button FontSize="60" Content="連到頁面A" HorizontalAlignment="Left" Height="117" Margin="176,248,0,0" VerticalAlignment="Top" Width="422" Click="Button_Click"/>
+        <CheckBox FontSize="30" Content="CheckBox" HorizontalAlignment="Left" Height="43" Margin="176,10,0,0" VerticalAlignment="Top" Width="192"/>
 
     </Grid>
 </Window>
