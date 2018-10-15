@@ -27,8 +27,8 @@ namespace WpfApp1
 
         private void Button_Click(object sender, RoutedEventArgs e)
         {
-            AAA a = new AAA();
-            a.Show();
+            AAA b = new AAA();
+            b.Show();
         }
     }
 }
