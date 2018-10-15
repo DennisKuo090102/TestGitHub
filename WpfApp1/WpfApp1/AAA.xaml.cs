@@ -10,25 +10,18 @@ using System.Windows.Documents;
 using System.Windows.Input;
 using System.Windows.Media;
 using System.Windows.Media.Imaging;
-using System.Windows.Navigation;
 using System.Windows.Shapes;
 
 namespace WpfApp1
 {
     /// <summary>
-    /// MainWindow.xaml 的互動邏輯
+    /// AAA.xaml 的互動邏輯
     /// </summary>
-    public partial class MainWindow : Window
+    public partial class AAA : Window
     {
-        public MainWindow()
+        public AAA()
         {
             InitializeComponent();
-        }
-
-        private void Button_Click(object sender, RoutedEventArgs e)
-        {
-            AAA a = new AAA();
-            a.Show();
         }
     }
 }
